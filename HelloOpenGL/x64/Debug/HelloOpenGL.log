@@ -1,2 +1,3 @@
-﻿  hellowindow.cpp
+﻿  main.cpp
+c:\users\jack stringer\projects\helloopengl\helloopengl\main.cpp(97): warning C4305: 'argument': truncation from 'double' to 'float'
   HelloOpenGL.vcxproj -> C:\Users\Jack Stringer\Projects\HelloOpenGL\x64\Debug\HelloOpenGL.exe
